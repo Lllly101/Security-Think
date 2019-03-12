@@ -40,7 +40,7 @@
   - Python
   - Go
 
-#### Vulners(God's View)
+#### Vulnerabilities(God's View)
 
 - Web 
   - Xss
@@ -110,3 +110,14 @@
 - OSEE
 - Security +
 - ISO 27001
+
+#### Lab Environment
+
+- [Hack the box](https://www.hackthebox.eu/)
+- [Pentester Academy](https://www.pentesteracademy.com/)
+- [Vulnhub](https://www.vulnhub.com/)
+
+#### Bug Bounty Platform
+
+- [Hackerone](http://hackerone.com/)
+- [Bugcrowd](https://www.bugcrowd.com/)
