@@ -16,13 +16,6 @@
 
 ### Security
 
-#### CVE Collections
-
-- Type
-- Usage
-- Exp or Poc
-- Analysis
-
 #### Defense
 
 - WAF
@@ -42,26 +35,10 @@
 
 #### Vulnerabilities(God's View)
 
-- Web 
-  - Xss
-  - SqlInject
-  - SSRF
-  - CSRF
-  - Unauthorized access
-  - CMD inject
-  - information leak
-  - File upload
-  - Bypass OAuth or OTP 
-  - Presudo random generators
-  - Graph QL
-- Mobile 
-  - Android
-  - IOS
+- CVEs
 - Privilege Escalation
   - Windows
   - Linux
-- New Attack Technique
-  - To do
 
 #### Tools
 
@@ -96,10 +73,6 @@
   - nc
   - ncat
   - socat
-- Port Scan
-  - nmap
-  - masscan
-  - zmap
 - Proxy Tools
   - BurpSuite
 
@@ -110,11 +83,6 @@
   - Wireshark
 
   - Tcpdump & ssldump
-- Vulner Scanner
-  - AWVS
-  - APPScan
-  - Nessus
-  - XSStrike
 - Post Exploit
   - [Metasploit](https://www.metasploit.com/)
   - [CobaltStrike](https://www.cobaltstrike.com/)
