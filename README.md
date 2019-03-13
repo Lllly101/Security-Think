@@ -66,6 +66,11 @@
 #### Tools
 
 - Shell Managers
+  - Cknife
+  - antSword
+  - chopper
+  - Hatchet
+  - Altman
 - Web Shell
   - PHP
   - Java(JSP)
@@ -90,6 +95,7 @@
   - Lcx
   - nc
   - ncat
+  - socat
 - Port Scan
   - nmap
   - masscan
