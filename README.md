@@ -65,8 +65,12 @@
 
 #### Tools
 
+- Shells
+  - PHP
+  - Java(JSP)
+  - Python
+  - Asp
 - Malware-Analysis
-
   - IDA Pro
 - Information Gather
 
