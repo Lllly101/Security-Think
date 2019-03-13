@@ -84,6 +84,10 @@
     - webpath
     - middle software info
     - common ports
+- Port Forward
+  - Lcx
+  - nc
+  - ncat
 - Port Scan
   - nmap
   - masscan
@@ -106,6 +110,7 @@
   - [Metasploit](https://www.metasploit.com/)
   - [CobaltStrike](https://www.cobaltstrike.com/)
   - [Empire](http://www.powershellempire.com/)
+  - [mimikatz](https://github.com/gentilkiwi/mimikatz)
 
 #### Certificates
 
