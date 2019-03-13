@@ -18,12 +18,6 @@
 
 #### Defense
 
-- WAF
-
-- IDS
-
-- IPS
-
 - Obfuscated code
 
 - Information Leak Monitor
