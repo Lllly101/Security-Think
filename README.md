@@ -71,8 +71,10 @@
   - Java(JSP)
   - Python
   - Asp
-- Malware-Analysis
+- Reverse Malware Analysis
   - IDA Pro
+  - Android
+    - jd-gui
 - Information Gather
 
   - Brute Force Path
@@ -102,10 +104,11 @@
   - Wireshark
 
   - Tcpdump & ssldump
-- Scanner
+- Vulner Scanner
   - AWVS
   - APPScan
   - Nessus
+  - XSStrike
 - Post Exploit
   - [Metasploit](https://www.metasploit.com/)
   - [CobaltStrike](https://www.cobaltstrike.com/)
