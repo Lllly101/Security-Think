@@ -65,7 +65,8 @@
 
 #### Tools
 
-- Shells
+- Shell Managers
+- Web Shell
   - PHP
   - Java(JSP)
   - Python
