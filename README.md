@@ -74,6 +74,8 @@
   - IDA Pro
 - Information Gather
 
+  - Brute Force Path
+  - Domain Scanner
   - Domain certificate
   - Dictonary
     - username
