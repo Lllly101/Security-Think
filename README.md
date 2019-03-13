@@ -120,6 +120,7 @@
   - [CobaltStrike](https://www.cobaltstrike.com/)
   - [Empire](http://www.powershellempire.com/)
   - [mimikatz](https://github.com/gentilkiwi/mimikatz)
+  - BrowserPasswordDump
 
 #### Certificates
 
